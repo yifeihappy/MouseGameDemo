@@ -4,7 +4,21 @@
     <bookmark url="file://$PROJECT_DIR$/MouseGameFrame.py" line="37" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd9a68bb-7253-421b-ab5e-e98ce0293ba4" name="Default Changelist" comment="" />
+    <list default="true" id="bd9a68bb-7253-421b-ab5e-e98ce0293ba4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ISSDataController.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ISSThread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MDialAbstractGameFrame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MDialMouseGameFrame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/RecognizerThread.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SensorDetectThread.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AbstractGameFrame.py" beforeDir="false" afterPath="$PROJECT_DIR$/AbstractGameFrame.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalFrame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CalculatorFrame.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MouseGameFrame.py" beforeDir="false" afterPath="$PROJECT_DIR$/MouseGameFrame.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,17 +26,51 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CatchMouse$MDialMouseGameFrame.coverage" NAME="MDialMouseGameFrame Coverage Results" MODIFIED="1558750229379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CatchMouse$CalFrame.coverage" NAME="CalFrame Coverage Results" MODIFIED="1558601759311" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/CatchMouse$HelloWorld.coverage" NAME="HelloWorld Coverage Results" MODIFIED="1558582105323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/CatchMouse$MouseGameFrame.coverage" NAME="MouseGameFrame Coverage Results" MODIFIED="1558679417116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/CatchMouse$MouseGameFrame.coverage" NAME="MouseGameFrame Coverage Results" MODIFIED="1558709304528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/MouseGameFrame.py">
+        <entry file="file://$PROJECT_DIR$/RecognizerThread.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
-              <caret line="55" selection-start-line="55" selection-end-line="55" />
+            <state relative-caret-position="390">
+              <caret line="97" column="44" selection-start-line="97" selection-start-column="39" selection-end-line="97" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#16#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ISSDataController.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="123" column="19" selection-start-line="123" selection-start-column="19" selection-end-line="123" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ISSThread.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="6" column="44" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MDialMouseGameFrame.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="411">
+              <caret line="90" column="35" lean-forward="true" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="35" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -31,31 +79,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CalFrame.py">
+        <entry file="file://$PROJECT_DIR$/SensorDetectThread.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="480">
-              <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#22#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AbstractGameFrame.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="1080">
+              <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/venv/Lib/site-packages/wx/core.pyi">
+        <entry file="file://$PROJECT_DIR$/MDialAbstractGameFrame.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-900">
-              <caret line="24501" column="6" selection-start-line="24501" selection-start-column="6" selection-end-line="24501" selection-end-column="6" />
+            <state relative-caret-position="321">
+              <caret line="152" column="39" selection-start-line="152" selection-start-column="13" selection-end-line="152" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -73,11 +109,17 @@
     <findStrings>
       <find>m_button2</find>
       <find>hole_id</find>
+      <find>button_id</find>
+      <find>__change_digit</find>
     </findStrings>
     <replaceStrings>
       <replace>m_button_stop</replace>
       <replace>button_id</replace>
+      <replace>change_digit</replace>
     </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -88,15 +130,21 @@
         <option value="$PROJECT_DIR$/GameFrame.py" />
         <option value="$PROJECT_DIR$/MouseGameFrame.py" />
         <option value="$PROJECT_DIR$/AbstractGameFrame.py" />
+        <option value="$PROJECT_DIR$/ISSThread.py" />
+        <option value="$PROJECT_DIR$/RecognizerThread.py" />
+        <option value="$PROJECT_DIR$/MDialAbstractGameFrame.py" />
+        <option value="$PROJECT_DIR$/MDialMouseGameFrame.py" />
+        <option value="$PROJECT_DIR$/ISSDataController.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -140,7 +188,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.MouseGameFrame">
+  <component name="RunManager" selected="Python.MDialMouseGameFrame">
     <configuration name="CalFrame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CatchMouse" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -185,6 +233,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="MDialMouseGameFrame" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CatchMouse" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MDialMouseGameFrame.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="MouseGameFrame" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CatchMouse" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -209,6 +279,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MDialMouseGameFrame" />
         <item itemvalue="Python.MouseGameFrame" />
         <item itemvalue="Python.CalFrame" />
         <item itemvalue="Python.HelloWorld" />
@@ -225,12 +296,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1558578979787</updated>
-      <workItem from="1558578981151" duration="23245000" />
+      <workItem from="1558578981151" duration="47304000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23245000" />
+    <option name="totallyTimeSpent" value="47304000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -241,13 +312,13 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Python Console" weight="0.32936078" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" weight="0.329718" />
+      <window_info active="true" anchor="bottom" id="Python Console" visible="true" weight="0.3991323" />
+      <window_info anchor="bottom" id="Terminal" weight="0.3286334" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.06608884" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.14425163" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -273,12 +344,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GameFrame.py">
+    <entry file="file://$PROJECT_DIR$/CalFrame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-44">
-          <caret line="110" column="52" selection-start-line="110" selection-start-column="52" selection-end-line="110" selection-end-column="52" />
+        <state relative-caret-position="480">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
           <folding>
-            <element signature="e#316#325#0" expanded="true" />
+            <element signature="e#0#22#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -290,20 +361,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CalFrame.py">
+    <entry file="file://$PROJECT_DIR$/Controller.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
-          <folding>
-            <element signature="e#0#22#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="-1151">
+          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GameFrame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="110" column="52" selection-start-line="110" selection-start-column="52" selection-end-line="110" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MouseGameFrame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        <state relative-caret-position="281">
+          <caret line="46" column="110" lean-forward="true" selection-start-line="46" selection-start-column="10" selection-end-line="46" selection-end-column="110" />
           <folding>
             <element signature="e#0#9#0" expanded="true" />
           </folding>
@@ -312,8 +387,62 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/AbstractGameFrame.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="641">
+          <caret line="135" column="22" lean-forward="true" selection-start-line="135" selection-start-column="22" selection-end-line="135" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recognizeData.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ISSThread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="6" column="44" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MDialAbstractGameFrame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="321">
+          <caret line="152" column="39" selection-start-line="152" selection-start-column="13" selection-end-line="152" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SensorDetectThread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="38" column="39" selection-start-line="38" selection-start-column="39" selection-end-line="38" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MDialMouseGameFrame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="90" column="35" lean-forward="true" selection-start-line="90" selection-start-column="35" selection-end-line="90" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RecognizerThread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="97" column="44" selection-start-line="97" selection-start-column="39" selection-end-line="97" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ISSDataController.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="123" column="19" selection-start-line="123" selection-start-column="19" selection-end-line="123" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

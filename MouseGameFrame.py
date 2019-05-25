@@ -42,6 +42,10 @@ class MouseGameFrame(AbstractGameFrame):
         self.m_button_stop.Disable()
         self.m_button_start.Enable()
 
+    # # 调用其它button的click函数
+    # def click_btn1(self, event):
+    #     self.m_button_start.ProcessEvent(wx.CommandEvent(wx.EVT_BUTTON.typeId, self.m_button_start.GetId()))
+
     def button_click(self, event):
         print("click")
         print(event.GetEventObject().GetLabel())

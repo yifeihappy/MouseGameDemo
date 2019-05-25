@@ -114,6 +114,9 @@ class AbstractGameFrame(wx.Frame):
 
         bSizer_bottom.Add(self.m_button_stop, 1, wx.ALL, 10)
 
+        # self.m_button_click = wx.Button(self, wx.ID_ANY, u"CLICK", wx.DefaultPosition, wx.DefaultSize, 0)
+        # bSizer_bottom.Add(self.m_button_click, 1, wx.ALL, 10)
+
         bSizer_all.Add(bSizer_bottom, 0, wx.ALIGN_BOTTOM | wx.ALIGN_CENTER | wx.EXPAND, 5)
 
         self.SetSizer(bSizer_all)
@@ -124,6 +127,7 @@ class AbstractGameFrame(wx.Frame):
         # Connect Events
         self.m_button_start.Bind(wx.EVT_BUTTON, self.start_game)
         self.m_button_stop.Bind(wx.EVT_BUTTON, self.stop_game)
+        # self.m_button_click.Bind(wx.EVT_BUTTON, self.click_btn1)
 
         for i in range(9):
             self.m_bpButton_list[i].Bind(wx.EVT_BUTTON, self.button_click)
@@ -140,6 +144,9 @@ class AbstractGameFrame(wx.Frame):
         event.Skip()
 
     def button_click(self, event):
+        event.Skip()
+
+    def click_btn1(self, event):
         event.Skip()
 
 
